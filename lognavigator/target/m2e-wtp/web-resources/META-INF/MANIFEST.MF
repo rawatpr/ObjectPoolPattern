@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Implementation-Title: LogNavigator
+Implementation-Version: 1.6.3-SNAPSHOT
+Built-By: Vipin Rawat
+Implementation-Vendor-Id: org.lognavigator
+Build-Jdk: 1.8.0_65
+Implementation-URL: https://github.com/fbaligand/lognavigator/
+Created-By: Maven Integration for Eclipse
+
